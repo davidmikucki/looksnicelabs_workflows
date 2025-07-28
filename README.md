@@ -1,2 +1,2 @@
-# looksnicelabs_workflows
+# Looks Nice Labs Workflows
 ComfyUI Workflows from Looks Nice Labs
